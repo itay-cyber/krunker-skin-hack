@@ -1,2 +1,3 @@
 # krunker-skin-hack
-krunker skin hacks
+see my video for a tutorial!
+https://youtu.be/IykvtllIwCs
